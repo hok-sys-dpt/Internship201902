@@ -20,7 +20,7 @@
     },
     {
       "type": "qna",
-      "name": "qna-with-insights-QnAMaker",
+      "name": "PreInternshipKB20190212",
       "id": "34",
       "kbId": "bb074639-191e-48d9-bbd0-edd1c5690b44",
       "subscriptionKey": "cc9eab81f14e488e8d9ddc3d970c7faf",
@@ -29,12 +29,12 @@
     },
     {
       "type": "appInsights",
-      "tenantId": "2994a6d3-7c9c-40d5-b3d4-240526461c2b",
-      "subscriptionId": "c6e2ed94-e3ed-470e-a2b7-fb09d126a9d8",
-      "resourceGroup": "Internship20190212-13_Test",
-      "name": "QnAMakerForInternship20190212Test-ai",
+      "tenantId": "",
+      "subscriptionId": "b48b2bea-3b79-4ea1-a8fc-0cf0aba8291c",
+      "resourceGroup": "CalorieRecorder",
+      "name": "InternshipTest201902rqbuis",
       "serviceName": "appinsightsService",
-      "instrumentationKey": "666073af-2b72-41f1-9861-b6e8c11a27f3",
+      "instrumentationKey": "e740eb15-255a-4dbe-b923-8301310c0272",
       "applicationId": "",
       "apiKeys": {},
       "id": "4"

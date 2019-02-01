@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=QnABotAppInsights
+--content-root=C:\Users\user\Documents\Internship201902\20.qna-with-appinsights
+--file=

@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\bin\Release\netcoreapp2.0\qna-with-appinsights.bot
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\bin\Release\netcoreapp2.0\QnABotAppInsights.deps.json
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\bin\Release\netcoreapp2.0\QnABotAppInsights.runtimeconfig.json
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\bin\Release\netcoreapp2.0\QnABotAppInsights.runtimeconfig.dev.json
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\bin\Release\netcoreapp2.0\QnABotAppInsights.dll
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\bin\Release\netcoreapp2.0\QnABotAppInsights.pdb
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\obj\Release\netcoreapp2.0\QnABotAppInsights.csprojAssemblyReference.cache
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\obj\Release\netcoreapp2.0\QnABotAppInsights.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\obj\Release\netcoreapp2.0\QnABotAppInsights.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\obj\Release\netcoreapp2.0\QnABotAppInsights.AssemblyInfo.cs
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\obj\Release\netcoreapp2.0\QnABotAppInsights.dll
+C:\Users\user\Documents\Internship201902\20.qna-with-appinsights\obj\Release\netcoreapp2.0\QnABotAppInsights.pdb

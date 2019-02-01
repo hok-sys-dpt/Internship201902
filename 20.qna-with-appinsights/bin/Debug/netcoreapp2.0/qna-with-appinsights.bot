@@ -1,37 +1,45 @@
 {
-    "name": "qna-with-appinsights",
-    "description": "",
-    "services": [
-        {
-            "type": "endpoint",
-            "id": "1",
-            "name": "development",
-            "appId": "",
-            "appPassword": "",
-            "endpoint": "http://localhost:3978/api/messages"
-        },        
-        {
-            "type": "qna",
-            "name": "qna-with-insights-QnAMaker",
-            "id": "34",
-            "kbId": "",
-            "subscriptionKey": "",
-            "endpointKey": "",
-            "hostname": ""
-        },
-        {
-            "type": "appInsights",
-            "tenantId": "",
-            "subscriptionId": "",
-            "resourceGroup": "",
-            "name": "",
-            "serviceName": "",
-            "instrumentationKey": "",
-            "applicationId": "",
-            "apiKeys": {},
-            "id": "4"
-        },
-    ],
-    "padlock": "",
-    "version": "2.0"
+  "name": "qna-with-appinsights",
+  "description": "",
+  "services": [
+    {
+      "type": "endpoint",
+      "id": "1",
+      "name": "development",
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages"
+    },
+    {
+      "type": "endpoint",
+      "id": "2",
+      "name": "production",
+      "appId": "adbf8b82-f6e6-4a8f-bd6d-fe8969e16058",
+      "appPassword": "doacrGHOPT7_wlWC9252-)?",
+      "endpoint": "https://qnabotappinsights20190201031252.azurewebsites.net/api/messages"
+    },
+    {
+      "type": "qna",
+      "name": "qna-with-insights-QnAMaker",
+      "id": "34",
+      "kbId": "bb074639-191e-48d9-bbd0-edd1c5690b44",
+      "subscriptionKey": "cc9eab81f14e488e8d9ddc3d970c7faf",
+      "endpointKey": "b663855e-3797-4d79-89a2-a9ff2b7089ae",
+      "hostname": "https://qnamakerforinternship20190212test.azurewebsites.net/qnamaker"
+    },
+    {
+      "type": "appInsights",
+      "tenantId": "2994a6d3-7c9c-40d5-b3d4-240526461c2b",
+      "subscriptionId": "c6e2ed94-e3ed-470e-a2b7-fb09d126a9d8",
+      "resourceGroup": "Internship20190212-13_Test",
+      "name": "QnAMakerForInternship20190212Test-ai",
+      "serviceName": "appinsightsService",
+      "instrumentationKey": "666073af-2b72-41f1-9861-b6e8c11a27f3",
+      "applicationId": "",
+      "apiKeys": {},
+      "id": "4"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
 }
